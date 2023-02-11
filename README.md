@@ -46,26 +46,26 @@ npm
 ```
 
 ### Instructions
-Clone the repository locally  
+- Clone the repository locally  
   
 `git clone https://github.com/jmpherso/front-end-capstone.git`
 
-Install dependances  
+- Install dependances  
   
 `npm install`
 
-Create a file in the project root folder named ".env", and add the following text to it :
+- Create a file in the project root folder named ".env", and add the following text to it :
 ```
 AUTHTOKEN = githubtoken
 PORT = 1100
 ```
 **Note : Replace githubtoken with your own github API access token. The port can be any port of your choosing.**
   
-Build via webpack  
+- Build via webpack  
   
 `npm run build`
 
-Start server  
+- Start server  
   
 `npm run server`
 
