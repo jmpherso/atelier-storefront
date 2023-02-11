@@ -69,5 +69,5 @@ PORT = 1100
   
 `npm run server`
 
-Navigate to [localhost:1100](http://localhost:1100/) in your browser
+- Navigate to [localhost:1100](http://localhost:1100/) in your browser
 
