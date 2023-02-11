@@ -44,6 +44,7 @@ Installing and running this project **requires the use of a github token**, as w
 node
 npm
 ```
+Further information on obtaining a github access token [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
 
 ### Instructions
 - Clone the repository locally  
