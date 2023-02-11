@@ -13,6 +13,7 @@
     + [Instructions](#instructions)
 
 ## 🔍 Project Details
+Project Atelier is the Front End Capstone project for Hackreactor. It requires the creation of React based web-app that simulates the experience and functionality of a modern shopping page.  
 
 ### Components
 #### Overview
