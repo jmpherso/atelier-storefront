@@ -1,5 +1,5 @@
-# FEC Project Atelier
-## Table of Contents
+# 👚 FEC Project Atelier
+## 🗏 Table of Contents
 - [FEC Project Atelier](#fec-project-atelier)
   * [Project Details](#project-details)
     + [Components](#components)
@@ -12,7 +12,7 @@
     + [Requirements](#requirements)
     + [Instructions](#instructions)
 
-## Project Details
+## 🔍 Project Details
 
 ### Components
 #### Overview
@@ -36,7 +36,7 @@ The ratings component allows users to view a products ratings, filter reviews by
 - [Webpack](https://webpack.js.org/)  
 - [Jest](https://jestjs.io/)  
 
-## Installation
+## 💾 Installation
 
 ### Requirements
 Installing and running this project **requires the use of a github token**, as well as the following packages
