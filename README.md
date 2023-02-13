@@ -1,4 +1,4 @@
-# 👚 FEC Project Atelier
+# 👚 Project Atelier
 ## 🗏 Table of Contents
 - [FEC Project Atelier](#fec-project-atelier)
   * [Project Details](#project-details)
